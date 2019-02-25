@@ -20,6 +20,18 @@ var bear = {
     noisy: true,
     deadly: true
 };
-var truck = {
-    model="",
+var motorcycle = {
+    model:"splender",
+    color: "red",
+    numitires:2
+
+};
+var person = {
+    firstName: "arsh",
+    lastName: "dhillon",
+    fullName:
+    set lang(lang) {
+        thius.lang = lang;
+    }
+
 };
