@@ -31,7 +31,11 @@ var person = {
     lastName: "dhillon",
     fullName:
     set lang(lang) {
-        thius.lang = lang;
+        this.lang = lang;
     }
 
+};
+
+var animal = {
+    animal2:"cow",
 };
